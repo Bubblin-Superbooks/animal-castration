@@ -11,7 +11,7 @@ A Gutenberg classic for book-lovers on the web. Read the book <a href="https://b
 This book uses the [Superbook](https://bubblin.io/docs/format) format and is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company for The Web.
 
 
-<blockquote><p>Date of publication: <date id="date">January 22, 2021</date></p></blockquote>
+<blockquote><p>Date of publication: <date id="date">January 23, 2021</date></p></blockquote>
 
 ### TABLET FIRST &amp; OFFLINE FIRST
 
